@@ -745,4 +745,7 @@ st.dataframe(df_prediction_proba,
 
 # Display the predicted result (Yes or No)
 prediction_label = "Yes" if probabilities[1] > 0.5 else "No"
-st.success(f"Prediction: The employee is likely to stay (Attrition: {prediction_label})")
+if prediction_label == "Yes":
+    st.error("Prediction: The employee is likely to leave (Attrition: Yes)")
+else:
+    st.success("Prediction: The employee is likely to stay (Attrition: No)")
