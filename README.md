@@ -4,9 +4,9 @@ Attrition Prediction: Is your job worth keeping? Should you stay? Or just leave?
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://attritionpredictioninggrianti.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://attritionpredictioninggrianti.streamlit.app/)
 
 ## GitHub Codespaces
 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]((https://github.com/inggrianti/attpredict))
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/inggrianti/attpredict)
